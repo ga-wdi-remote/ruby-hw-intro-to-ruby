@@ -18,7 +18,7 @@ Inside `ruby_study_drills` you will create your ruby files and exercises in here
 
 ** denotes that chapter is read only, no drills involved
 
-:dart: Commit after each exercise.
+:dart: Commit after each exercise ie. "completed Exercise 23"
 
 ### Intruction to Ruby:
 1. [Preface](https://learnrubythehardway.org/book/preface.html) **
@@ -70,53 +70,7 @@ Inside `ruby_study_drills` you will create your ruby files and exercises in here
 
 We've only just begun! If you finish all the exercises we've assigned and still want to learn more, try your hand at exercises [**43**](https://learnrubythehardway.org/book/ex43.html), [**44**](https://learnrubythehardway.org/book/ex44.html), and [**45**](https://learnrubythehardway.org/book/ex45.html).
 
-## DO :: Research
 
-Please research the Ruby methods below that have been assigned to you, and
-prepare a short explanation of how each method works and how it is used.
-
-[String](http://ruby-doc.org/core-2.3.0/String.html)
-
-1. rstrip /rstrip!
-2. reverse /reverse!
-3. include?
-4. gsub / gsub!
-5. chomp / chomp!
-
-[Array](http://ruby-doc.org/core-2.3.0/Array.html)
-
-1. compact / compact!
-2. delete_at /delete_if
-3. fetch
-4. flatten / flatten!
-5. sample
-6. select / select!
-7. zip
-
-[Hash](http://ruby-doc.org/core-2.3.0/Hash.html)
-
-1. has_key?
-2. keys
-3. size
-4. to_a
-5. merge / merge!
-6. flatten
-7. invert
-
-[Integer](http://ruby-doc.org/core-2.3.0/Integer.html)
-
-1. odd? / even?
-2. floor
-
-[DateTime](http://ruby-doc.org/stdlib-2.3.0/libdoc/date/rdoc/DateTime.html)
-
-1. to_date
-2. to_time
-
-[Object](http://ruby-doc.org/core-2.3.0/Object.html)
-
-1. send
-2. is_a? / kind_of?
 
 ## Closing Questions
 
@@ -180,3 +134,5 @@ Please answer the following questions in the spaces provided.
   ```text
     Your answer here:
   ```
+
+9. :dart: Commit -m "finished Intro to Ruby questions"
