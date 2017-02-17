@@ -16,12 +16,21 @@ What better way to spend a 3-day weekend than learning a brand new language? I c
 ### Part 3: Object Oriented Design!
 
   - Follow the [readme.md](3_More_Ruby/readme.md) and start sharpening those advanced programmer skillz!
-  
+
 ### Part 4: Codewars!
 
   - Follow the [readme.md](4_Codewars/readme.md) and test your technical skills with ruby challenges.
 
+### Part 5: 5 Questions
+
+Now that you had 3 full days to learn all about Ruby, what are 5 questions you still have or that came up? List them below and we'll do our best to answer them on Tuesday.
+
+  1. Your Question Here
+  2. Your Question Here
+  3. Your Question Here
+  4. Your Question Here
+  5. Your Question Here
+
 ### Recommended readings and references:
   - [Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide)
   - [Ruby Mini-Tutorials Videos](https://www.youtube.com/playlist?list=PLw1xVKFbouelGegt-oL_Eip2GSUhr-a66)
-
