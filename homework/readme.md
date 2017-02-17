@@ -13,9 +13,15 @@ What better way to spend a 3-day weekend than learning a brand new language? I c
 
   - Follow the [SQL readme.md](2_SQL/readme.md) and gain more practice with SQL.
 
-### Part 3: More Ruby!
+### Part 3: Object Oriented Design!
 
-  - Follow the [readme.md](3_More_Ruby/readme.md) and start sharpening those Ruby skillz!
+  - Follow the [readme.md](3_More_Ruby/readme.md) and start sharpening those advanced programmer skillz!
+  
+### Part 4: Codewars!
+
+  - Follow the [readme.md](4_Codewars/readme.md) and test your technical skills with ruby challenges.
 
 ### Recommended readings and references:
   - [Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide)
+  - [Ruby Mini-Tutorials Videos](https://www.youtube.com/playlist?list=PLw1xVKFbouelGegt-oL_Eip2GSUhr-a66)
+
