@@ -52,7 +52,7 @@ Inside `ruby_study_drills` you will create your ruby files and exercises in here
 - [Exercise 19: Functions and Variables](https://learnrubythehardway.org/book/ex19.html)
 - [Exercise 20: Functions and Files](https://learnrubythehardway.org/book/ex20.html)
 
-:movie_camera: [Video: Methods](https://www.youtube.com/watch?v=RSDkqdyqHBg&index=3&list=PLw1xVKFbouelGegt-oL_Eip2GSUhr-a66)
+:movie_camera: [Video: Methods](https://www.youtube.com/watch?v=-i6y5Xp-60c&index=4&list=PLw1xVKFbouelGegt-oL_Eip2GSUhr-a66)
 
 - [Exercise 21: Functions Can Return Something](https://learnrubythehardway.org/book/ex21.html)
 - [Exercise 22: What Do You Know So Far?](https://learnrubythehardway.org/book/ex22.html)
